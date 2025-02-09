@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "x3Tk3hcOidE=",
+  "success": true,
+  "projectFilePath": "/Users/dungnguyenquang/Documents/Project/food-delivery-app/UserService/UserService.csproj",
+  "expectedPackageFiles": [
+    "/Users/dungnguyenquang/.nuget/packages/microsoft.aspnetcore.openapi/9.0.1/microsoft.aspnetcore.openapi.9.0.1.nupkg.sha512",
+    "/Users/dungnguyenquang/.nuget/packages/microsoft.openapi/1.6.17/microsoft.openapi.1.6.17.nupkg.sha512"
+  ],
+  "logs": []
+}
